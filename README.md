@@ -1,2 +1,4 @@
 # sample
-This is a sample project
+Bharath Kumar Nangunuri
+bnangunu@charlotte.edu  
+801420000
